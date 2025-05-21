@@ -18,6 +18,6 @@ public class Movement {
 
     private String title;
     private boolean isometric;
-    private Equipment equipment;
+    //private Equipment equipment;
     private String description;
 }
